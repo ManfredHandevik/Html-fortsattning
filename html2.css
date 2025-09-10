@@ -1,0 +1,23 @@
+ table {
+      border-collapse: collapse;
+      width: 600px;
+      height: 400px;
+    }
+    td {
+      border: 2px solid black;
+    }
+    .blue {
+      background: dodgerblue;      
+    }
+    .red {
+      background: red;
+    }
+    .yellow {
+      background: yellow;
+    }
+    .green {
+      background: lime;
+    }
+    .black {
+      background: black;
+    }
